@@ -1,0 +1,31 @@
+﻿table{
+	border-collapse:collapse;
+	border-width:2px;
+	border-style:solid;
+}
+td{
+	border-width:1px;
+	border-style:solid;
+	border-collapse:collapse;
+}
+h1{
+color:#330066;
+font-family: "Helvetica Neue", Calibri, sans-serif;
+text-align:center;
+font-size:36pt;
+}
+h2{
+color:#330099;
+font-family:Arial;
+font-size:18pt;
+text-align:right;
+}
+p{
+color:#000008;
+font-family:sans-serif;
+font-size:14pt;
+text-align:left;
+}
+body{
+	background-color:#99CCFF;
+}
